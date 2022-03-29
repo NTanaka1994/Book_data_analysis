@@ -1,0 +1,222 @@
+98 IEEE SOFTWARE 
+ |  WWW.COMPUTER.ORG/SOFTWARE
+  |  @IEEESOFTWARE
+to determine blockchain-based plat
+-forms™ scalability.
+Traditional voting emphasizes the 
+authority of the state. BEV empha
+-sizes voter transparency. The BEV 
+process is transparent, decentral
+-ized, and bottom-up. BEV might not 
+
+perform well in a society whose cul
+-ture and values exhibit low compat
+-ibility with these values.
+27Also, blockchains require much 
+energy to perform authentication 
+and validation, and they™re slow. 
+So, using them for national e-voting 
+
+might not be practical yet.
+Finally, BEV will shift power away 
+from central actors such as electoral 
+
+authorities and government agen
+-cies.
+27 Thus, the technology is likely to 
+face resistance from political leaders 
+ who bene˜t from the status quo.
+28Blockchain technology is 
+
+currently in a nascent state. 
+There haven™t been enough 
+distributed-ledger-technology and 
+blockchain-based applications to 
+
+suf˜ciently evaluate whether this 
+technology is superior to current 
+voting systems.
+No full implementation of BEV 
+for a national election has occurred 
+yet. However, we argue that BEV 
+has a future in elections and might 
+
+transform voting.
+Political violence related to elec
+-tions has been common in Africa 
+
+and other developing countries. BEV 
+
+can ensure security and transparency 
+and reduce electoral violence. It can 
+also produce more mathematically 
+
+accurate election results. Because 
+
+BEV doesn™t require management 
+from a central authority, voting-
+related costs will decrease. Finally, 
+
+BEV should reduce the cost of paper-
+
+based elections and increase voter 
+participation.
+References
+ 1.
+ J. Demuro, ﬁHere Are the 10 Sectors 
+That Blockchain Will Disrupt For
+-ever,ﬂ TechRadar Pro, 16 Jan. 2018; 
+
+https://www.techradar.com/news
+ /here-are-the-10-sectors-that
+ -blockchain-will-disrupt-forever.
+ 2.
+ B. Dickson, ﬁBlockchain Tech Could 
+
+Fight Voter FraudŠand These Coun
+-tries Are Testing It,ﬂ VentureBeat, 
+ 
+22 Oct. 2016; https://venturebeat
+ 
+.com/2016/10/22/blockchain
+ -tech-could-˜ght-voter-fraud-and
+ -these-countries-are-testing-it.
+ 3.
+ J. Hall, ﬁCan Blockchain Technology 
+
+Solve Voting Issues?,ﬂ 
+Bitcoin Maga
+-zine
+, 7 Mar. 2018; https://www
+ .nasdaq.com/article/can-blockchain
+ -technology-solve-voting-issues
+ 
+-cm931347.
+ 4.
+ A. Sandre, ﬁBlockchain for Voting 
+
+and Elections,ﬂ Hackernoon, 14 Jan. 
+
+2018; https://hackernoon.com
+ /blockchain-for-voting-and-elections
+ -9888f3c8bf72.
+ 5.
+ G. Prico, ﬁSierra Leone Pilots 
+ Blockchain-Based Voting for Political 
+
+Elections,ﬂ 22 Mar. 2018; https:
+ //www.nasdaq.com/article/sierra-leone
+ 
+-pilots-blockchain-based-voting-for
+ -political-elections-cm938309.
+ 6.
+ B. Miller, ﬁBlockchain Voting 
+
+Startup Raises $2.2M,ﬂ 
+Government 
+
+Technology
+, 8 Jan. 2018; http:
+ //www.govtech.com/biz/Blockchain
+ -Voting-Startup-Raises-22M.html.
+ 7.
+ A. Perala, ﬁVoatz Raises $2.2 Million 
+
+in Seed Funding,ﬂ Mobile ID World, 
+ 9 Jan. 2018; https://mobileidworld
+ .com/voatz-seed-funding-901093.
+ 8.
+ M. Hochstein, ﬁMoscow™s Blockchain 
+
+Voting Platform Adds Service for 
+
+High-Rise Neighbors,ﬂ CoinDesk, 
+ 15 Mar. 2018; https://www.coindesk
+ .com/moscows-blockchain-voting
+ -platform-adds-service-for-high-rise
+ -neighbors.
+ 9.
+ ﬁDigital Home Blockchain Voting 
+
+System, Active Citizen in Moscow 
+Opens,ﬂ BitccoinExchangeGuide
+ 
+.com; https://bitcoinexchangeguide
+ .com/digital-home-blockchain-voting
+ 
+-system-active-citizen-in-moscow
+ -opens.
+ 10.
+ M.D. Castillo, ﬁRussia Is Leading 
+
+the Push for Blockchain Democracy,ﬂ 
+
+CoinDesk, 2018; https://www
+ .coindesk.com/russias-capital
+ -leading-charge-blockchain
+ -democracy.
+ 11.
+ B. Kimathi, ﬁWhy You Shouldn™t 
+
+Get Carried Away by Sierra Leone™s 
+
+Blockchain Elections,ﬂ Crypto-Lines, 
+ 13 Mar. 2018; https://crypto-lines
+ .com/2018/03/13/blockchain
+ -elections.
+ 12.
+ S. Holder, ﬁCan the Blockchain Tame 
+
+Moscow™s Wild Politics?,ﬂ CityLab, 
+
+22 Dec. 2017; https://www.citylab
+ 
+.com/life/2017/12/can-the-blockchain
+ -tame-moscows-wild-politics/547973.
+ 13.
+ ﬁA South Korean Province Used 
+
+Blockchain Tech for Resident Vot
+-ing,ﬂ CCN.com, 8 Mar. 2017; 
+ 
+https://www.ccn.com/south-korean
+ -province-used-blockchain-tech
+ -resident-voting.
+ 14.
+ ﬁSouth Korea Uses Blockchain Tech
+-nology for Elections,ﬂ KryptoMoney, 
+
+2 May 2017; https://kryptomoney
+ 
+.com/south-korea-uses-blockchain
+ -technology-for-elections.
+ 15.
+ S. Waterman, ﬁNasdaq Says Estonia 
+
+E-Voting Pilot Successful,ﬂ Cyber
+-Scoop, 25 Jan. 2017; https://www
+ 
+.cyberscoop.com/nasdaq-estonia
+ -evoting-pilot.
+ 16.
+ K. Aasmae, ﬁWhy Ripples from this 
+
+Estonian Blockchain Experiment 
+
+May Be Felt around the World,ﬂ 
+ 
+ZDNet, 14 Apr. 2016; https://www
+ 
+.zdnet.com/article/why-ripples-from
+ -this-estonian-blockchain-experiment
+ -may-be-felt-around-the-world.
+ 17.
+ ﬁHow Estonia Brought Blockchain 
+
+Closer to Citizens: GovTech Case 
+
+Studies,ﬂ 
+Cointelegraph
+, 7 Mar. 
+2017; https://cointelegraph
+ 

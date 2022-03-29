@@ -1,0 +1,117 @@
+0740-7459/18/$33.00 © 2018 IEEE JULY/AUGUST 2018
+  |  IEEE SOFTWARE
+ 95Blockchain-Enabled 
+E-Voting
+Nir Kshetri and Jeffrey Voas
+E-VOTING IS AMONG 
+the key pub
+-lic sectors that can be disrupted by 
+blockchain technology.
+1 The idea in 
+blockchain-enabled e-voting
+ (BEV) 
+is simple. To use a digital-currency 
+analogy, BEV issues each voter a 
+
+ﬁwalletﬂ containing a user creden
+-tial. Each voter gets a single ﬁcoinﬂ 
+representing one opportunity to vote. 
+ Casting a vote transfers the voter™s 
+ coin to a candidate™s wallet. A 
+ voter can spend his or her coin only 
+
+once. However, voters can change 
+their vote before a preset deadline.
+2Here, we argue that blockchains 
+might address two of the most prev
+-alent concerns in voting today: voter 
+
+access and voter fraud.
+The idea is as follows. Eligible vot
+-ers cast a ballot anonymously using 
+a computer or smartphone. BEV em
+-ploys an encrypted key and tamper-
+ proof personal IDs. For example, 
+
+the mobile e-voting platform of the 
+Boston-based startup Voatz employs 
+smart biometrics and real-time ID 
+
+veri˜cation. The public ledger ties 
+each cast ballot to an individual 
+
+voter and establishes a permanent, 
+immutable record. No bad actor can 
+engage in nefarious activities because 
+
+such activities will be evident on the 
+ledger or corrected by a peer-to-peer 
+consensus network.
+3 To compromise 
+the network, hackers would need 
+ to successfully hack most of the 
+
+blocks (˜les with transaction re
+-cords) before new blocks were in
+-troduced.
+3 The blockchain™s audit 
+trail ensures that no vote has been 
+changed or removed and that no 
+fraudulent and illegitimate votes 
+
+have been added.
+4Put simply, blockchains enable 
+the creation of tamper-proof audit 
+trails for voting. In this article, we 
+highlight some BEV implementa
+-tions and the approach™s potential 
+
+bene˜ts and challenges.
+Recent Examples
+Initial operational applications of 
+
+BEV have been for informal, non
+-binding, and consultative voting.
+5 For 
+example, in early 2018, Voatz tested 
+
+its mobile-phone-based system during 
+events such as student government 
+elections; church-group, nonpro˜t-
+
+organization, and union voting, and 
+
+subnational political-party events.
+6 The system has also been used in 
+town meetings in Massachusetts.
+7As Table 1 shows, blockchain-
+based solutions have been deployed 
+
+for corporate, community, city, and 
+national voting. For example, in 
+
+Russia, the city of Moscow™s Active 
+
+Citizen program was launched in 
+2014 and has more than two million 
+users.
+8 Each year, Moscow neigh
+-borhoods hold up to 5,000 to 7,000 
+meetings.
+9 As of February 2018, 
+3,450 polls had been conducted us
+-ing a centralized Oracle database, 
+with 92 million votes cast on diverse 
+
+subjects such as what color the seats 
+
+in a new sports arena should be, 
+whether to install driveway access 
+gates in neighborhood yards, and 
+
+whether to hire a new doorkeeper.
+10 Although these examples don™t deal 
+From the Editors
+Please explore the new IEEE Blockchain Initiative at http://blockchain.ieee
+ .org,Š
+Giuliano Antoniol, Steve Counsell, and Phil Laplante

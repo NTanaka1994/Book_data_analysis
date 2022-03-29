@@ -1,0 +1,185 @@
+ JULY/AUGUST 2018 
+ |  IEEE SOFTWARE
+ 97
+one of the accredited observers that 
+provided an independent count for 
+comparison. Agora described Sierra 
+Leone™s elections as a ﬁuse caseﬂ 
+
+rather than a ﬁfull implementationﬂ 
+
+of BEV.
+18Finally, Nasdaq has built and 
+operated four web-based user inter
+-faces for BEV.
+15 A BEV system issues 
+voting-right assets and voting-token 
+assets for each shareholder in a com
+-pany. A user can spend voting tokens 
+to cast votes on each meeting agenda 
+
+item if that user owns the related 
+voting-right asset.
+Opportunities and Bene˜ts
+BEV provides the following oppor
+-tunities and bene˜ts.
+To address voter tampering, 
+blockchains generate cryptographi
+-cally secure voting records. Votes are 
+recorded accurately, permanently, se
+-curely, and transparently.
+5 So, no one 
+can modify or manipulate votes.
+19 Furthermore, blockchains preserve 
+participants™ anonymity while still 
+being open to public inspection. Al
+-though nothing is totally secure, 
+
+tampering is nearly impossible with 
+blockchains.
+BEV might promote more voter 
+participation. For instance, corpo
+-rate annual general meetings can be 
+
+costly events with low shareholder 
+participation. With increasing cross-
+
+border investments, companies face 
+pressure to increase investor engage
+-ment. BEV is a ˚exible solution that 
+enables secure, cost-effective voting 
+
+to facilitate shareholder participa
+-tion and voting from a distance.
+20Also, improved identity veri˜
+-cation can help increase access and 
+participation. For example, ac
+-cording to a federal court in Texas, 
+608,470 registered voters lacked ver
+-i˜cation identi˜cation.
+21 Approxi
+-mately 11 percent of US citizens lack 
+government-issued photo identi˜ca
+-tion cards.
+21 BEV can improve this 
+situation. For instance, Voatz ac
+-cepts 10 different of˜cial documents 
+
+including driver™s licenses, state 
+
+IDs, and passports to verify voter 
+
+identity.
+22BEV can increase the speed with 
+which votes are tallied. For ex
+-ample, Agora reported that it pub
+-lished election results on its website 
+
+˜ve days before the of˜cial manual 
+
+counts ended.
+16BEV can eliminate ambiguities. 
+For example, in the 2017 Virginia 
+House of Delegates election, the 
+winner was chosen from paper bal
+-lots placed in a bowl. One vote ini
+-tially wasn™t counted because that 
+voter made confusing marks on the 
+ballot.
+6 Such ambiguity is less likely 
+to arise with BEV.
+BEV can promote greater trans
+-parency and clarity to voters. As of 
+
+2017, 23 countries in had adopted 
+ online voting.
+23 Current online-voting 
+ processes might be complicated for 
+some voters. It™s not easy to know 
+whether a vote was cast as intended 
+
+or whether it was counted as cast.
+23 As we already noted, blockchain 
+ results are publicly auditable.
+Some security systems in elec
+-tronic- and online-voting platforms 
+
+were possibly developed decades ago 
+and are vulnerable to tampering.
+24 Consider the WINVote touchscreen 
+
+machines made by Advanced Vot
+-ing Solutions, which went out of 
+business in 2015.
+25 WINVote ma
+-chines were used in the 2016 US 
+elections even though they hadn™t 
+had a security patch since April 
+
+2014. A security expert found that 
+
+anyone within a half-mile of a vot
+-ing machine could have altered votes 
+
+without detection. Blockchains™ de
+-centralized nature makes attacks 
+
+more dif˜cult.
+26Finally, with BEV, individual 
+votes will be publicly available, while 
+voters are masked behind an en
+-crypted key. This offers greater pri
+-vacy and security than traditional 
+ballot boxes and could reduce voter 
+suppression. Bad actors can™t iden
+-tify voters and therefore can™t target 
+them.
+3Challenges
+Governments and other stakehold
+-ers will need to address several 
+ major challenges before blockchains 
+
+see widespread use for e-voting. Al
+-though blockchains are good at pro
+-viding security and accuracy, public 
+con˜dence and trust are necessary 
+ingredients for BEV™s success. Block
+-chains™ complexity might hinder 
+
+mainstream public acceptability of 
+BEV.
+27 Broadband access and digital 
+user skills are also concerns.
+In 2016, the nonpro˜t Democ
+-racy Earth Foundation used a block
+-chain to give Colombian expatriates 
+a voice in the 2016 peace plebiscite 
+that was conducted to ratify the 
+agreement to terminate the con˚ict 
+
+between the Colombian government 
+
+and FARC guerillas.
+28 According 
+to the foundation, a main challenge 
+in the deployment blockchain is the 
+technology™s immaturity.
+Let™s now consider software qual
+-ity. Estimates have suggested that, 
+on average, there are from 15 to 
+ 50 defects per 1,000 LOC.
+29  For Ethereum, the blockchain-based 
+distributed-computing platform used 
+ by Moscow™s Active Citizen pro
+-gram (which features smart con
+-tracts), the number might be twice 
+
+that. This might be attributed to 
+Ethereum™s immaturity. 
+The Econo
+-mist
+ quoted a blogger who said that 
+Ethereum contracts are ﬁcandy for 
+hackers.ﬂ
+29 Also, suf˜cient observa
+-tions haven™t yet been accumulated 

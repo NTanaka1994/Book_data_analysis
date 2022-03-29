@@ -1,0 +1,221 @@
+98IEEEソフトウェア
+ | WWW.COMPUTER.ORG/SOFTWARE
+  | @IEEESOFTWARE
+ブロックチェーンベースのプラットフォームを決定する
+-forms™のスケーラビリティ。
+従来の投票では、
+国家の権威。 BEVエンファ
+-有権者の透明性を評価します。 BEV
+プロセスは透過的で分散型
+-化され、ボトムアップ。 BEVはそうではないかもしれません
+
+そのカルがその社会でうまく機能する
+-tureとvaluesは低い互換性を示します
+-これらの値との互換性。
+27また、ブロックチェーンには多くのことが必要です
+認証を実行するためのエネルギー
+と検証、そして彼らは遅いです。
+したがって、それらを全国的な電子投票に使用する
+
+まだ実用的ではないかもしれません。
+最後に、BEVはパワーをシフトします
+選挙などの中心的な俳優から
+
+当局と政府の議題
+-cies。
+27したがって、この技術は
+政治指導者からの抵抗に直面する
+ 現状から恩恵を受けている人。
+28ブロックチェーンテクノロジーは
+
+現在、初期状態にあります。
+十分ではありませんでした
+分散型台帳テクノロジーと
+ブロックチェーンベースのアプリケーションから
+
+これが
+テクノロジーは現在よりも優れています
+投票システム。
+BEVの完全な実装はありません
+国政選挙が行われたため
+まだ。ただし、BEVは
+選挙に未来があり、
+
+投票を変換します。
+電気に関連する政治的暴力
+-アフリカでは一般的です
+
+および他の発展途上国。 BEV
+
+セキュリティと透明性を確保できます
+選挙による暴力を減らします。できる
+より数学的にも生成します
+
+正確な選挙結果。なぜなら
+
+BEVは管理を必要としません
+中央当局から、投票-
+関連コストが減少します。ついに、
+
+BEVは紙のコストを削減する必要があります-
+
+ベースの選挙と有権者の増加
+参加。
+参考文献
+ 1.1。
+ J.デムロ、ここに10のセクターがあります
+そのブロックチェーンは
+-これまで、TechRadar Pro、2018年1月16日;
+
+https://www.techradar.com/news
+ /here-are-the-10-sectors-that
+ -blockchain-will-disrupt-forever。
+ 2.2。
+ B. Dickson、？Blockchain Tech Could
+
+有権者の詐欺とこれらのカウンと戦う
+-試行はそれをテストしています、fl VentureBeat、
+ 
+2016年10月22日; https：// venturebeat
+ 
+.com / 2016/10/22 / blockchain
+ -tech-could-〜ght-voter-fraud-そして
+ -これらの国々はテスト中です。
+ 3.3。
+ J. Hall、？Can Blockchain Technology
+
+投票の問題を解決しますか？、fl
+ビットコインマガ
+-zine
+、2018年3月7日; https：// www
+ .nasdaq.com / article / can-blockchain
+ -テクノロジー-解決-投票-問題
+ 
+-cm931347。
+ 4.4。
+ A. Sandre、投票用のブロックチェーン
+
+と選挙、flハッカーヌーン、1月14日。
+
+2018; https://hackernoon.com
+ /blockchain-for-voting-and-elections
+ -9888f3c8bf72。
+ 5.5。
+ G. Prico、フィシエラレオーネパイロット
+ 政治のためのブロックチェーンベースの投票
+
+選挙、2018年3月22日; https：
+ //www.nasdaq.com/article/sierra-leone
+ 
+-パイロット-ブロックチェーンベース-投票-
+ -政治選挙-cm938309。
+ 6.6。
+ B. Miller、ブロックチェーン投票
+
+スタートアップが220万ドルを調達
+政府
+
+テクノロジー
+、2018年1月8日; http：
+ //www.govtech.com/biz/Blockchain
+ -投票-スタートアップ-Raises-22M.html。
+ 7。
+ A. Perala、fiVoatzが220万ドルを調達
+
+シードファンディング、モバイルIDワールド、
+ 2018年1月9日; https：// mobileidworld
+ .com/voatz-seed-funding-901093。
+ 8.8。
+ M. Hochstein、fiMoscow™のブロックチェーン
+
+投票プラットフォームがサービスを追加
+
+高層ビル、コインデスク、
+ 2018年3月15日; https://www.coindesk
+ .com /moscows-blockchain-voting
+ -platform-adds-service-for-high-rise
+ -隣人。
+ 9.9。
+ ？デジタルホームブロックチェーン投票
+
+システム、モスクワのアクティブな市民
+開く、fl BitccoinExchangeGuide
+ 
+.com; https：// bitcoinexchangeguide
+ .com / digital-home-blockchain-voting
+ 
+-system-active-citizen-in-moscow
+ -開きます。
+ 10.10。
+ M.D. Castillo、ロシアがリード
+
+ブロックチェーン民主主義の推進
+
+CoinDesk、2018; https：// www
+ .coindesk.com / russias-capital
+ -リーディングチャージブロックチェーン
+ -民主主義。
+ 11.11。
+ B.キマティ、「なぜあなたはすべきでないのか」
+
+シエラレオネ™で運び去る
+
+Blockchain Elections、fl Crypto-Lines、
+ 2018年3月13日; https：// crypto-lines
+ .com / 2018/03/13 / blockchain
+ -選挙。
+ 12.12。
+ S.ホルダー、ブロックチェーンを飼いならすことができますか
+
+モスクワ™の野生の政治？、fl CityLab、
+
+2017年12月22日; https：//www.citylab
+ 
+.com / life / 2017/12 / can-the-blockchain
+ -飼いならされた蚊-野生の政治/547973。
+ 13.13。
+ 使用される韓国の州
+
+居住者投票のためのブロックチェーン技術
+-ing、fl CCN.com、2017年3月8日;
+ 
+https://www.ccn.com/south-korean
+ -province-used-blockchain-tech
+ -居住者投票。
+ 14.
+ ？韓国はBlockchainTechを使用しています
+-選挙のためのnology、fl KryptoMoney、
+
+2017年5月2日; https：// kryptomoney
+ 
+.com / south-korea-uses-blockchain
+ -選挙のための技術。
+ 15.
+ S.ウォーターマン、フィナスダックはエストニアを言います
+
+電子投票パイロットの成功、サイバー
+-スクープ、2017年1月25日; https：// www
+ 
+.cyberscoop.com/nasdaq-エストニア
+ -電子投票-パイロット。
+ 16.16。
+ K. Aasmae、なぜこれから波紋が出るのか
+
+エストニアのブロックチェーン実験
+
+世界中で感じられるかもしれない、fl
+ 
+ZDNet、2016年4月14日; https：// www
+ 
+.zdnet.com / article / why-ripples-from
+ -this-estonian-blockchain-experiment
+ -世界一周で感じられるかもしれません。
+ 17.17。
+ ？エストニアがブロックチェーンをもたらした方法
+
+市民に近い：GovTechケース
+
+研究、？
+コインテレグラフ
+、3月7日。
+2017; https：// cointelegraph

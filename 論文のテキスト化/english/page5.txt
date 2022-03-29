@@ -1,0 +1,162 @@
+ JULY/AUGUST 2018 
+ |  IEEE SOFTWARE
+ 99.com/news/how-estonia-brought-
+blockchain-closer-to-citizens
+ 
+-govtech-case-studies.
+ 18.
+ D. Finnan, ﬁSierra Leone™s Electoral 
+
+Commission Distances Itself from 
+
+Use of Blockchain during Polls,ﬂ RFI, 
+
+18 Mar. 2018; http://en.r˜.fr/africa
+ 
+/20180319-sierra-leones-electoral
+ -commission-distances-itself-use
+ -blockchain-during-polls.
+ 19.
+ K. Leary, ﬁBlockchain Might Be 
+
+about to Change the Way We Vote,ﬂ 
+
+World Economic Forum, 13 Sept. 
+
+2017; https://www.weforum.org
+ /agenda/2017/09/blockchain-could
+ -be-about-to-change-how-you-vote, 
+
+2017.
+ 20.
+ R. DeMarinis, ﬁIs Blockchain the 
+
+Answer to E-Voting? Nasdaq Believes 
+
+So,ﬂ Nasdaq, 23 Jan. 2017; http:
+ 
+//business.nasdaq.com/marketinsite
+ /2017/Is-Blockchain-the-Answer-to
+ -E-voting-Nasdaq-Believes-So.html.
+ 21.
+ S. Horwitz, ﬁGetting a Photo ID So 
+
+You Can Vote Is Easy. Unless You™re 
+
+Poor, Black, Latino or Elderly,ﬂ 
+
+Washington Post
+, 23 May 2016; 
+https://www.washingtonpost.com
+ /politics/courts_law/getting-a-photo
+ -id-so-you-can-vote-is-easy-unless
+ -youre-poor-black-latino-or-elderly
+ /2016/05/23/8d5474ec-20f0
+ -11e6-8690-f14ca9de2972_story
+ .html?noredirect
+˜on&utm_term
+ ˜.233edc07152e.
+ 22.
+ E. Kuebler, ﬁMaking Voting, Elec
+-tions Both Secure and Accessible with 
+
+Blockchain Technology,ﬂ 
+Bitcoin 
+
+Magazine
+, 11 Jan. 2018; https:
+ //bitcoinmagazine.com/articles/making
+ -voting-elections-both-secure-and
+ -accessible-blockchain-technology.
+ 23.
+ D. Lohrmann, ﬁCan Blockchain 
+
+Technology Secure Your Vote?,ﬂ 
+
+Government Technology
+, 29 Apr. 
+2017; http://www.govtech.com/blogs
+ /lohrmann-on-cybersecurity/can
+ -blockchain-technology-secure-your
+ -vote.html.
+ 24.
+ P. Marley and J. Stein, ﬁRussians 
+
+Tried to Hack Election Systems of 21 
+
+States in 2016, Of˜cials Say,ﬂ 
+USA 
+
+Today
+, 22 Sept. 2017; https://www
+ .usatoday.com/story/news/nation
+ -now/2017/09/22/wisconsin-one
+ -20-states-targeted-russian-hacking
+ -elections-systems-2016/694719001.
+ 25.
+ K. Zetter, ﬁVirginia Finally Drops 
+
+America™s ‚Worst Voting Machines,™ﬂ 
+
+Wired
+, 17 Aug. 2015; https://www
+ .wired.com/2015/08/virginia-˜nally
+ -drops-americas-worst-voting
+ -machines.
+ 26.
+ B. Barrett, ﬁAmerica™s Electronic 
+
+Voting Machines Are Scarily Easy 
+
+Targets,ﬂ 
+Wired
+, 2 Aug. 2016; 
+ https://www.wired.com/2016/08
+ /americas-voting-machines-arent
+ -ready-election.
+ 27.
+ P. Boucher, 
+What If Blockchain 
+Technology Revolutionised Voting?
+, European Parliamentary Research 
+
+Service, 2016; http://www.europarl
+ 
+.europa.eu/thinktank/en/document
+ .html?reference
+˜EPRS_ATA
+ (2016)581918.
+ 28.
+ C. van Ooijen, ﬁHow Blockchain 
+
+Can Change Voting: The Colombian 
+
+Peace Plebiscite,ﬂ Forum Network, 
+ 
+20 Dec. 2017; https://www.oecd
+ 
+-forum.org/users/76644-charlotte
+ -van-ooijen/posts/28703-how
+ -blockchain-can-change-voting-the
+ -colombian-peace-plebiscite.
+ 29.
+ ﬁNot-So-Clever Contracts,ﬂ 
+Econo
+-mist
+, 28 July 2016; https://www
+ .economist.com/news/business
+ /21702758-time-being-least-human
+ -judgment-still-better-bet-cold
+ -hearted.
+Read your subscriptions 
+through the myCS 
+publications portal at
+ http://mycs.computer.org
+ABOUT THE AUTHORS
+NIR KSHETRI 
+is a professor of management at the Bryan School of 
+Business and Economics, University of North Carolina at Greensboro. 
+Contact him at nbkshetr@uncg.edu.
+JEFFREY VOAS 
+was a cofounder of Cigital and is an IEEE Fellow. 
+Contact him at j.voas@ieee.org.

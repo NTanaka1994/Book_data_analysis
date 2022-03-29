@@ -1,0 +1,170 @@
+96
+ IEEE SOFTWARE 
+ |  WWW.COMPUTER.ORG/SOFTWARE
+  |  @IEEESOFTWARE
+with political of˜ces, blockchains 
+could be tailored for that purpose.
+Furthermore, many Moscow 
+residents don™t have time to attend 
+
+face-to-face meetings. So, meetings 
+
+have moved to the Digital Home 
+online platform. In December 2017, 
+residents began using a blockchain 
+
+to vote, and the results were publicly 
+
+auditable.
+8 City of˜cials believed 
+that neighbors should have a con
+-venient environment in which to in
+-˚uence their living conditions. The 
+
+of˜cials also believed that a block
+-chain would increase trust between 
+citizens and government.
+12 Each 
+question discussed by the community 
+
+is moved to BEV. After the polling is 
+˜nished, the results are provided.
+9To assess BEV™s trustworthiness, 
+the city of Moscow commissioned 
+the accounting ˜rm PwC to conduct 
+an audit.
+10 PwC looked at the pos
+-sibility that the polling™s outcome 
+
+could be manipulated by internal 
+employees and external attacks. The 
+
+audit found no reason to be con
+-cerned for polls that involved more 
+than 300,000 votes.
+In March 2017, the South Korean 
+province of Gyeonggi-do employed a 
+BEV system to vote on the Ddabok 
+Community Support Project.
+13 Nine-
+ thousand residents voted using a 
+
+blockchain platform developed by 
+the Korean ˜nancial-technology 
+
+startup Block that included smart 
+
+contracts. The votes, results, and 
+other relevant data were stored in 
+a blockchain. No management or 
+
+central authority was involved in 
+
+this process.
+14 This was the ˜rst 
+time South Korea applied such a 
+technology.
+Shareholders of the Estonian tech
+-nology company LVH Group who 
+are Estonian citizens or Estonian 
+ e-residents can now use BEV to make 
+
+corporate-governance-related deci
+-sions.
+15 They can log in using their 
+veri˜ed national online ID and vote 
+at LVH™s annual general meeting. 
+Estonia™s e-residency platform au
+-thenticates e-resident shareholders.
+16  Estonia plans to adopt blockchains 
+in a range of areas such as an 
+ e-residency project (which allows 
+foreign citizens to establish a busi
+-ness within Estonian jurisdiction) 
+and healthcare (securing health data 
+storage and allowing real-time moni
+-toring of patient conditions).
+17In Sierra Leone™s March 2018 
+general elections, Swiss blockchain 
+startup Agora provided a partial 
+tally of election results.
+11 Agora was 
+Table 1. Blockchain-based solutions deployed for voting at the community, 
+ city, and national levels.
+Setting
+The context
+Remarks
+The city of Moscow™s Active Citizen 
+program
+In December 2017, the program started using 
+
+a blockchain for voting and to make the voting 
+
+results publicly auditable. Each question 
+
+discussed by the community and put up for 
+
+voting is moved to the e-voting system using 
+
+a blockchain. After the voting is complete, the 
+
+results are listed on a ledger containing all the 
+
+previous polls.
+The most popular polls were reported to have 137,000 to 
+
+220,000 participants.
+10 In one such case on the Ethereum 
+platform, citizens indicated their preferences for temporary 
+
+relocation if the building in which they were living would be 
+demolished and replaced by a better building. The platform 
+reached a peak of approximately 1,000 transactions per 
+minute. It™s not clear whether the platform can handle the 
+
+volume if a higher proportion of Moscow™s 12 million citizens 
+
+participate in the voting.
+The South Korean province of 
+
+Gyeonggi-do™s community projects
+The province used a blockchain-based 
+
+voting system to gather votes on community 
+
+projects. 9,000 residents voted.
+The Korean ˜nancial-technology startup Block developed the 
+
+blockchain platform.
+The annual general meeting of the 
+
+Estonian tech company LVH Group
+Shareholders can log in using their veri˜ed 
+
+national online ID and vote at the meeting.
+The voting system issues voting-right assets and voting-
+
+token assets to shareholders. A user can spend voting tokens 
+
+to vote on meeting agenda items if that user owns the related 
+
+voting-right asset. Nasdaq designed the system.
+Sierra Leone™s March 2018 general 
+
+elections
+Swiss startup Agora carried out tallying in 
+
+two districts. After the voting, a team of 
+
+accredited observers from different locations 
+
+manually entered approximately 400,000 
+
+ballots into Agora™s blockchain system.
+This test was considered a partial deployment of a 
+
+blockchain.
+11 The elections were only veri˜ed by blockchain, 
+not blockchain powered. Agora provided an independent vote 
+
+count, which was compared with the main tally.
