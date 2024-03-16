@@ -7,15 +7,15 @@ import csv
 #method_list = ("average", "centroid", "complete", "median", "single", "ward", "weighted")
 
 # dataを20個生成
-df=pd.read_csv("wine.csv",encoding="shift-jis")
-data=df.values
-label=df["category"].values
+df = pd.read_csv("wine.csv", encoding="shift-jis")
+data = df.values
+label = df["category"].values
 # DataFrameオブジェクト生成
-data=preprocessing.minmax_scale(data)
-df=pd.DataFrame(data)
+data = preprocessing.minmax_scale(data)
+df = pd.DataFrame(data)
 
 # クラスタリング
-Z=linkage(df, method="average", metric="euclidean")
+Z = linkage(df, method="average", metric="euclidean")
 #Z=linkage(df, method="average", metric="cosine")
 dendrogram(Z, labels=label)
 plt.show()
